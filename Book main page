@@ -1,0 +1,96 @@
+<html>
+<head>
+<title>Online Book Store</title>
+<style>
+.mydiv{
+border:10px solid black;
+background-color:maroon;
+text-align:left;
+color:white;
+}
+table{
+border:5px solid black;
+border-width:10px;
+background-color:black;
+border-collapse: separate;
+border-spacing:160px 0;
+
+  
+}
+th {
+        border-collapse:separate;
+        background-color: black;
+        color: white;
+       
+        
+      }
+.vl{
+border-left: 0.1px solid black;
+  height: 780px;
+  position: absolute;
+  left: 20%;
+  margin-left: -1px;
+  top: 182;
+}
+.text{
+text-align:left;
+margin-left: 20px;
+font-size: 11px;
+
+}
+h4{
+text-align:left;
+margin-left:50px;
+font size 11px;
+color:maroon;
+}
+hr.new4 {
+  border: 1px solid black;
+  width:220px;
+  margin-left:15px;
+}
+img{
+width:250px;
+margin-left:300px;
+}
+
+</style>
+</head>
+<body>
+<div class="mydiv">
+<h1>BOOK WORLD:WELCOME TO THE WORLD OF BOOKS</h1>
+</div>
+<hr>
+<table>
+<tr>
+<th><a href="book.html"> Home </th> </a>
+<th> Books </th>
+<th> New Arrival </th>
+<th> Pre Order </th>
+<th><a href="bestseller.html">BestSellers </th></a>
+</tr>
+</table>
+<div class="vl"></div>
+<div class="text">
+<h1 style="margin-up:100px">Browse by Category</h1>
+</div>
+<img src="https://image.scoopwhoop.com/w360/s3.scoopwhoop.com/anj/books/418243985.jpg.webp" width="200px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHhyK9fWxj5Ek3yjN-m0yz9RGtcp77JelcJw&usqp=CAU" width="200px" <br> Price :300
+
+<h4>Arts and Science</h4>
+<h4>Architecture</h4>
+<h4>Biography</h4>
+<h4>Business</h4>
+<h4>Computer Science</h4>
+<h4>Cookery</h4>
+<h4>Dictionary</h4>
+<h4>Economics</h4>
+<h4>Fictional</h4>
+<h4>History</h4>
+<h4>Law</h4>
+<h4>Science</h4>
+<h4>Travel</h4>
+<hr class="new4">
+
+</body>
+</html>
